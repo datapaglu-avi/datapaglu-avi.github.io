@@ -11,3 +11,7 @@ Because data isn't just my job - it's my playground. Wether I am analyzing my __
 ## What's here
 
 This website is where I share my side projects, my learnings, my experiences where I benefit or loss cause of data analysis, and connect with fellow data enthusiasts and potential collaborators.
+
+## You can reach out to me here
+
+[Linkedin](https://in.linkedin.com/in/avi-kasliwal)
