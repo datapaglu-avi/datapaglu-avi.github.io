@@ -92,3 +92,5 @@ We’re drowning in content. TL;DL tries to fight back with:
 If you're like me — short on time but high on curiosity — I think you’ll love what this turns into.
 
 Stay tuned. And maybe... stay subscribed? 😄
+
+PS: Link to youtube channel -> [Youtube Podcast - TL;DL](https://www.youtube.com/@tldl_by_datapaglu_avi)
